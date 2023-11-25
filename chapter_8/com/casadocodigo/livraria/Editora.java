@@ -1,4 +1,4 @@
-package br_com_casadocodigo_livraria;
+package chapter_8.com.casadocodigo.livraria;
 
 public class Editora {
     private String nomeFantasia;

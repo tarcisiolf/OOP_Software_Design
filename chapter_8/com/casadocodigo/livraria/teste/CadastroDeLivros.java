@@ -1,6 +1,9 @@
-package chapter_7;
+package chapter_8.com.casadocodigo.livraria.teste;
 
-// 3.1 Criando um molde de livros
+import chapter_8.com.casadocodigo.livraria.Autor;
+import chapter_8.com.casadocodigo.livraria.produtos.Livro;
+import chapter_8.com.casadocodigo.livraria.produtos.LivroFisico;
+
 public class CadastroDeLivros {
     public static void main(String[] args) {
 

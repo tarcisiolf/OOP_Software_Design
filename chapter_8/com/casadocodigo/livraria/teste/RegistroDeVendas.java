@@ -1,8 +1,8 @@
-package br_com_casadocodigo_livraria_teste;
+package chapter_8.com.casadocodigo.livraria.teste;
 
-import br_com_casadocodigo_livraria.Autor;
-import br_com_casadocodigo_livraria_produtos.LivroFisico;
-import br_com_casadocodigo_livraria_produtos.Ebook;
+import chapter_8.com.casadocodigo.livraria.Autor;
+import chapter_8.com.casadocodigo.livraria.produtos.Ebook;
+import chapter_8.com.casadocodigo.livraria.produtos.LivroFisico;
 
 public class RegistroDeVendas {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package br_com_casadocodigo_livraria_teste;
+package chapter_8.com.casadocodigo.livraria.teste;
 
-import br_com_casadocodigo_livraria_produtos.Produto;
+import chapter_8.com.casadocodigo.livraria.produtos.Produto;
 
 public class CarrinhoDeCompras {
 

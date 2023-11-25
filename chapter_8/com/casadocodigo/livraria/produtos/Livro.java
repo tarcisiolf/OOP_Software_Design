@@ -1,6 +1,6 @@
-package br_com_casadocodigo_livraria_produtos;
+package chapter_8.com.casadocodigo.livraria.produtos;
 
-import br_com_casadocodigo_livraria.Autor;
+import chapter_8.com.casadocodigo.livraria.Autor;
 
 public abstract class Livro implements Produto {
     private String nome;
@@ -33,15 +33,15 @@ public abstract class Livro implements Produto {
 
     public abstract boolean aplicaDescontoDe(double porcentagem);
 
-    boolean temAutor() {
+    public boolean temAutor() {
         return this.autor != null;
     }
 
-    void adicionaValor(double valor) {
+    public void adicionaValor(double valor) {
         this.valor = valor;
     }
 
-    double retornaValor() {
+    public double retornaValor() {
         return this.valor;
     }
 

@@ -1,6 +1,6 @@
-package br_com_casadocodigo_livraria_produtos;
+package chapter_8.com.casadocodigo.livraria.produtos;
 
-import br_com_casadocodigo_livraria.Autor;
+import chapter_8.com.casadocodigo.livraria.Autor;
 
 public class LivroFisico extends Livro implements Promocional {
     public LivroFisico(Autor autor) {
